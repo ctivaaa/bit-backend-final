@@ -7,6 +7,7 @@ import usersRouter from "./routers/users.js"
 import cors from 'cors';
 
 
+
 const server = express()
 const host = process.env.HOST
 const port = process.env.PORT 
@@ -24,7 +25,9 @@ server.use("/users", usersRouter)
 
 
 server.get("/", (req, res)=>{
-res.send(`libros en ${host}:${port}/libros`)
+res.send(`libros en ${host}:${port}/libros
+   usuarios en ${host}:${port}/users
+  `)
 })
 
 

@@ -61,7 +61,6 @@ login: async (req, res) => {
           contrasena,
           userFound.contrasena
         );
-        console.log("VALIDA?", validPassword);
         if (validPassword) {
           console.log("*57");
           const token = await getToken({

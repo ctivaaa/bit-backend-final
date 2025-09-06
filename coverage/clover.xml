@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1757125203316" clover="3.2.0">
+  <project timestamp="1757125203316" name="All files">
+    <metrics statements="58" coveredstatements="54" conditionals="6" coveredconditionals="4" methods="7" coveredmethods="7" elements="71" coveredelements="65" complexity="0" loc="58" ncloc="58" packages="2" files="4" classes="4"/>
+    <package name="controllers">
+      <metrics statements="56" coveredstatements="52" conditionals="6" coveredconditionals="4" methods="7" coveredmethods="7"/>
+      <file name="libros.js" path="C:\Users\USER\Desktop\Apuntes_bit\FULLSTACK\bit-backend\src\controllers\libros.js">
+        <metrics statements="27" coveredstatements="26" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="52" count="2" type="stmt"/>
+        <line num="53" count="2" type="stmt"/>
+        <line num="54" count="2" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="67" count="2" type="stmt"/>
+        <line num="68" count="2" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+      </file>
+      <file name="users.js" path="C:\Users\USER\Desktop\Apuntes_bit\FULLSTACK\bit-backend\src\controllers\users.js">
+        <metrics statements="29" coveredstatements="26" conditionals="6" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+        <line num="50" count="2" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="52" count="2" type="stmt"/>
+        <line num="53" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="60" count="2" type="stmt"/>
+        <line num="64" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="72" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="73" count="1" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="models">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="libro.js" path="C:\Users\USER\Desktop\Apuntes_bit\FULLSTACK\bit-backend\src\models\libro.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+      <file name="user.js" path="C:\Users\USER\Desktop\Apuntes_bit\FULLSTACK\bit-backend\src\models\user.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
